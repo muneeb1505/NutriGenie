@@ -302,7 +302,7 @@ with tab4:
             - Health Goal: {health_goal}
             - Ingredients: {ingredients}
 
-            Suggest 6 healthy and delicious recipes. For each recipe, include:
+            Suggest 3 healthy and delicious recipes. For each recipe, include:
             1. Recipe name
             2. Brief description
             3. Ingredients list
